@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: Test
   title-url: https://example.com/
   date: Sep 2019 - Present
   subtitle: Fullstack Developer
@@ -28,7 +28,7 @@
     - tag: Rails
   timeline-side: right
 
-- title: Google
+- title: Test
   title-url: https://example.com/
   date: Mar 2019 - Sep 2019
   subtitle: Software Engineer as Intern
@@ -44,7 +44,7 @@
   subtitle: M.Sc. Computer Science
   timeline-side: left
 
-- title: Facebook
+- title: Test
   title-url: https://example.com/
   date: Sep 2017 - Mar 2019
   subtitle: Front-End Developer as Intern
