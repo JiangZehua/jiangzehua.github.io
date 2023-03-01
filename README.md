@@ -1,4 +1,32 @@
-# al-folio
+# My personal website
+
+## dependencies
+```
+ruby
+bundler
+gem
+jekyll
+```
+## Use:
+first init the ruby env:
+```
+rbenv init - fish | source
+ruby -v
+```
+
+## debug
+```
+bundle exec jekyll serve
+```
+
+## deploy
+```
+bundle exec jekyll build
+```
+then copy the content of `_site` to the another repo jiangzehua.github.io
+
+
+# Template: al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

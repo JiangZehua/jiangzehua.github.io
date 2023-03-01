@@ -27,6 +27,9 @@
   padding-top: 12px;
   display: block;
 }
+:root .contact-icons > a > i {
+  font-size: 0.4em;
+}
 :root .repo-img-light {
   display: block;
 }
