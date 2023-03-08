@@ -475,7 +475,7 @@ footer.sticky-bottom {
   align-items: center;
 }
 .projects .grid-sizer, .projects .grid-item {
-  width: 250px;
+  width: 100%;
   margin-bottom: 10px;
 }
 .projects h2.category {
