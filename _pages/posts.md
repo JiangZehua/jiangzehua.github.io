@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /projects/
-title: Projects
+permalink: /posts/
+title: Posts
 nav: true
 nav_order: 1
 pagination:
