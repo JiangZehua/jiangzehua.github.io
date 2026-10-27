@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+redirect: https://zehua-jiang.github.io/
 subtitle: <a href='https://www.nyu.edu/'>New York University</a>. zehua.jiang@nyu.edu
 
 profile:
@@ -15,6 +16,8 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+This website has moved to [zehua-jiang.github.io](https://zehua-jiang.github.io/). You will be redirected automatically in 3 seconds.
 
 Hi! I'm Zehua Jiang!
 
